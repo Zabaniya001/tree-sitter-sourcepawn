@@ -12,14 +12,14 @@
 - [x] do-while loops
 - [x] while loops
 - [x] functions
-- [] Enum structs
-- [] Enums
-- [] Preprocessor
-    - [] include
-    - [] define
-    - [] pragma
-- [] Methodmaps
-
+- [ ] Enum structs
+- [ ] Enums
+- [ ] Preprocessor
+    - [ ] include
+    - [ ] define
+    - [ ] pragma
+- [ ] Methodmaps
+- ...
 ## Q&A 
 
 **Q: What is the point of this project if [the other Sourcepawn Treesitter project](https://github.com/nilshelmig/tree-sitter-sourcepawn) already exists?**
